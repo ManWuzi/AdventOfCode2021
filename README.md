@@ -1,5 +1,5 @@
 ## Advent of Code 2021
----
+
 This repository contains the solutions for [Advent of Code 2021 challenges](https://adventofcode.com/).
 
 The solutions have been developed in Python and include my personal input files as well for reference. These can be used to validate your solutions should you choose.
